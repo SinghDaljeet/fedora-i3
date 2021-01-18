@@ -1,0 +1,2 @@
+1.make sure to chmod a+rw /sys/class/backlight/amdgpu_bl0/brightness
+2.tmux can create login loop so don't add tmux to bashrc file
